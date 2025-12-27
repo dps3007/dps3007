@@ -1,5 +1,5 @@
 # 💫 About Me:
-currently, i'm a student of btech in IT at iiit bhubaneswar
+I’m a software engineer with a strong foundation in backend systems, distributed architecture, and performance optimization. I work primarily with C++ and Node.js, building secure, scalable APIs and production-grade services while solving complex, real-world problems.
 
 
 ## 🌐 Socials:
